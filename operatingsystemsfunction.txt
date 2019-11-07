@@ -1,0 +1,1 @@
+A function in OS is the management of memory, or RAM. A certain amount of gigabytes are needed in RAM memory for the OS to function properly if there are other programs up and running. The OS assigns certain data and information to areas of memory when being processed and are later after monitoring this data it is released when the processor no longer needs it.
